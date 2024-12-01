@@ -1,0 +1,10 @@
+name: PrimoPlugin
+version: '1.0-SNAPSHOT'
+main: com.metix.PrimoPlugin
+api-version: '1.21'
+author: Metix
+description: devo farmi un curiculum per coral sono povero
+commands:
+  pvplobby:
+    description: un commando per la lobby pvp
+
